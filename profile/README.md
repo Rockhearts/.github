@@ -49,7 +49,8 @@
 develop ブランチから派生させて作成：
 
 -   `feature/` - 新機能開発用（例：`feature/login-page`）
--   `fix/` - 修正・更新用（例：`fix/header-layout`）
+-   `fix/` - 修正用（例：`fix/header-layout`）
+-   `update/` - 更新用（例：`update/news`）
 
 > **ブランチの作成単位の目安：**
 >
