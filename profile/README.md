@@ -29,12 +29,12 @@
 
 ## 技術スタック (Tech Stack)
 
-| カテゴリ            | 技術・ツール                                                                                                                                 |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Web Application** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ｜Laravelを使ったWebアプリ開発              |
-| **E-Commerce**      | ![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=flat&logo=shopify&logoColor=white) ｜Shopifyによるオリジナルテーマ・機能開発   |
-| **CMS**             | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ｜WordPressを用いた高度なカスタマイズ |
-| **Frontend & AI**   | ![AI](https://img.shields.io/badge/-AI_Powered-black?style=flat) ｜AIを活用したフロントエンド開発・効率化                                    |
+| カテゴリ            | 技術・ツール                                                                                                                                               |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Web Application** | <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"> ｜Laravelを使ったWebアプリ開発              |
+| **E-Commerce**      | <img src="https://img.shields.io/badge/-Shopify-95BF47?style=flat&logo=shopify&logoColor=white" alt="Shopify"> ｜Shopifyのテーマ開発                       |
+| **CMS**             | <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"> ｜完全オリジナルのWordPressテーマ開発 |
+| **Frontend & AI**   | <img src="https://img.shields.io/badge/-AI_Powered-black?style=flat" alt="AI Powered"> ｜AIを活用したフロントエンド開発・効率化                            |
 
 ---
 
