@@ -41,5 +41,5 @@
 
 ## 開発者向けリソース
 
-- [Git 開発ガイドライン](./docs/git-workflow.md) - ブランチ運用とリリースフローについて
+- [Git 開発ガイドライン](./docs/git-workflow.md) - ブランチ運用と開発フローについて
 - [コーディングガイドライン](https://github.com/Rockhearts/coding-guideline) - 社内のコーディング規約
